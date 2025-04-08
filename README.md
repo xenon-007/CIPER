@@ -1,4 +1,4 @@
-#🚗 Collision Identification and Prevention System with Enhanced Response
+# 🚗 Collision Identification and Prevention System with Enhanced Response
 
 An **affordable, camera-only ADAS solution** designed for non-ADAS vehicles. This system replaces expensive and failure-prone sensors with a single camera and real-time object detection using **YOLOv8**. It identifies obstacles and automatically recommends or takes evasive actions to prevent collisions — all while being cost-effective and simple to deploy.
 
